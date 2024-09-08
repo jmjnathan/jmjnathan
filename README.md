@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Christiawan and I'm a student at Soegijapranata Catholic University (SCU) majoring in Information System, Computer Science.
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in UI/UX, Frontend Developer specific for web
 - 🌱 I’m currently learning React Js, Next Js, and Others
 - ⚡ Fun fact: ...
 
