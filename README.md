@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Christiawan, a graduate of Soegijapranata Catholic University (SCU) with a degree in Information Systems, Computer Science.
-- 👀 I’m interested in UI/UX, Frontend Developer specific for web
-- 🌱 I’m currently learning React Js, Next Js, and Others
+- 👀 I’m interested in UI/UX, Frontend Developer (React.js and Next.js) specific for web
+- 🌱 I’m currently learning Golang
 - ⚡ Fun fact: Still learn for backend !!!
 
 <!---
